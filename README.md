@@ -48,12 +48,14 @@ Among others
 
 ## 🌐 Find Me Online
 - **Portfolio Website:** [Coming Soon!](#)
-# - **Instagram:** [@yourusername](https://www.instagram.com/yourusername)
+- **Twitter:** [@imDmanuel!](https://x.com/im_dmanuel)
+- **Email:** [chiwuzoemmanuel@gmail.com!](mailto:chiwuzoemmanuel@gmail.com)
+<!-- - **Instagram:** [@yourusername](https://www.instagram.com/yourusername) -->
 
 ---
 
-## 📈 GitHub Stats
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imDmanuel&show_icons=true&theme=radical)
+<!-- ## 📈 GitHub Stats
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imDmanuel&show_icons=true&theme=radical) -->
 
 ---
 
