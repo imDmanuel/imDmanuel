@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** building
 - Created a betting API with PostgreSQL and Drizzle ORM.
 - Introduced custom error utilities to improve JSON error responses in Express.
 
+Among others
 ---
 
 ## 🌟 What I’m Working On
